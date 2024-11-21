@@ -1,0 +1,14 @@
+.carouselItemClass {
+  padding: 10px 15px;
+}
+.carouselContainerClass {
+  background-color: whitesmoke;
+}
+.carouselAdContainerClass {
+  background-color: whitesmoke;
+}
+.carouselAdItemClass {
+  
+  width: 265px !important;
+
+}
